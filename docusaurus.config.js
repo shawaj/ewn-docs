@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Erwin Schrodinger Token (EWN)",
+  title: "Erwin Schrödinger Token (EWN)",
   tagline: "Brought to you by Meme Science",
   favicon: "img/favicon.ico",
 
@@ -51,10 +51,10 @@ const config = {
       // Replace with your project's social card
       image: "img/ewn-social-card.png",
       navbar: {
-        title: "Erwin Schrodinger Token (EWN)",
+        title: "Erwin Schrödinger Token (EWN)",
         logo: {
           alt: "EWN Logo",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           {
